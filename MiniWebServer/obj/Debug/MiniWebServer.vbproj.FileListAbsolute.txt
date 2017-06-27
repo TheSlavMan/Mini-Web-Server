@@ -1,0 +1,17 @@
+C:\Users\apcolinsky\Documents\Visual Studio 2017\Projects\Webserver\MiniWebServer\bin\Debug\MiniWebServer.exe.config
+C:\Users\apcolinsky\Documents\Visual Studio 2017\Projects\Webserver\MiniWebServer\bin\Debug\MiniWebServer.exe.manifest
+C:\Users\apcolinsky\Documents\Visual Studio 2017\Projects\Webserver\MiniWebServer\bin\Debug\MiniWebServer.application
+C:\Users\apcolinsky\Documents\Visual Studio 2017\Projects\Webserver\MiniWebServer\bin\Debug\MiniWebServer.exe
+C:\Users\apcolinsky\Documents\Visual Studio 2017\Projects\Webserver\MiniWebServer\bin\Debug\MiniWebServer.pdb
+C:\Users\apcolinsky\Documents\Visual Studio 2017\Projects\Webserver\MiniWebServer\bin\Debug\MiniWebServer.xml
+C:\Users\apcolinsky\Documents\Visual Studio 2017\Projects\Webserver\MiniWebServer\obj\Debug\MiniWebServer.Config.resources
+C:\Users\apcolinsky\Documents\Visual Studio 2017\Projects\Webserver\MiniWebServer\obj\Debug\MiniWebServer.MainForm.resources
+C:\Users\apcolinsky\Documents\Visual Studio 2017\Projects\Webserver\MiniWebServer\obj\Debug\MiniWebServer.Resources.resources
+C:\Users\apcolinsky\Documents\Visual Studio 2017\Projects\Webserver\MiniWebServer\obj\Debug\MiniWebServer.SSLSettings.resources
+C:\Users\apcolinsky\Documents\Visual Studio 2017\Projects\Webserver\MiniWebServer\obj\Debug\MiniWebServer.vbproj.GenerateResource.Cache
+C:\Users\apcolinsky\Documents\Visual Studio 2017\Projects\Webserver\MiniWebServer\obj\Debug\MiniWebServer.TrustInfo.xml
+C:\Users\apcolinsky\Documents\Visual Studio 2017\Projects\Webserver\MiniWebServer\obj\Debug\MiniWebServer.exe.manifest
+C:\Users\apcolinsky\Documents\Visual Studio 2017\Projects\Webserver\MiniWebServer\obj\Debug\MiniWebServer.application
+C:\Users\apcolinsky\Documents\Visual Studio 2017\Projects\Webserver\MiniWebServer\obj\Debug\MiniWebServer.exe
+C:\Users\apcolinsky\Documents\Visual Studio 2017\Projects\Webserver\MiniWebServer\obj\Debug\MiniWebServer.xml
+C:\Users\apcolinsky\Documents\Visual Studio 2017\Projects\Webserver\MiniWebServer\obj\Debug\MiniWebServer.pdb
